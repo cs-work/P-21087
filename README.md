@@ -11,14 +11,19 @@ jdk8+tomcat8+mysql5.6+Eclipse+maven
 spring+spring mvc+mybatis+layui+jsp+jquery
 
 ## 演示
+
 ### 运行截图
 
 ![](http://mirror.tarax.cn/p21087/1.jpg)
 
 ![](http://mirror.tarax.cn/p21087/2.jpg)
 
-![](http://mirror.tarax.cn/p21087/3.jpg)
-
 ![](http://mirror.tarax.cn/p21087/4.jpg)
 
 ![](http://mirror.tarax.cn/p21087/5.jpg)
+
+![](http://mirror.tarax.cn/p21087/8.jpg)
+
+### 下载地址
+
+[项目源码获取地址](http://cs-work.com/p/21087)
